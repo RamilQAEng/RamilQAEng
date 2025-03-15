@@ -1,6 +1,6 @@
 👋 Привет! Я Рамиль — QA Engineer | Future AQA | AI Bot Developer
 
-[![QA Banner](https://imgur.com/P8pjN2R)](https://t.me/@Rambajo)
+[![QA Banner](https://imgur.com/P8pjN2R)](https://imgur.com/P8pjN2R)
 
 ---
 
