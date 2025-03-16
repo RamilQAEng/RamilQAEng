@@ -29,8 +29,6 @@
 ---
 
 ### 📫 **Контакты**
-[![Telegram](![image](https://github.com/user-attachments/assets/97899ccf-2f64-483a-b916-99f7b8889b49)
-)](https://t.me/@Rambajo)  
 ✉️ **Email**: [ramill9754@gmail.com](mailto:ramill9754@gmail.com)
 
 ---
